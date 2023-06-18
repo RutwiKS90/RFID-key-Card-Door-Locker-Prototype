@@ -9,7 +9,7 @@
 byte readCard[4];     // Array that will hold UID of the RFID card.
 int successRead;
 
-String accessGranted [1] = {"69a6ee3"};  //RFID serial numbers to grant access to
+String accessGranted [1] = {"69a6ee3"};  //RFID serial numbers to grant access to(Change with your tag/card serial value)
 int accessGrantedSize = 1;  //The number of serial numbers
 
 
