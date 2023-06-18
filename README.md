@@ -57,7 +57,7 @@ To deploy this project:
 6. Now try with the card/tag for which you have entered the servo motor will rotate which indicates door opening after 10secs it will rotate back to its orginal positon indicating door closed
 7. For other card/tag it will not rotate
 
-
+## 👉[Click Here for Video Demonstartion](https://drive.google.com/file/d/11c5twD5oF7B8NoWruL4P4LxhATu4VApe/view?usp=sharing)
 
 
 ## Badges
